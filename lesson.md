@@ -203,7 +203,8 @@ It is not useful for this database, but assuming we have an employees table with
 - email
 - phone
 
-And a contractors table with the same columns. We can use a union to combine the two tables:
+And a contractors table with the same columns. We can use a union to combine the two tables: 
+**Note: the following code is to show the syntax only**
 
 ```sql
 SELECT *
